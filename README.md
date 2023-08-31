@@ -1,5 +1,3 @@
-- Hi, I am Alessandro Santos. Sofware Developer
-
 - JavaScript, HTML, CSS
 - React, Node.js, Express
 - MongoDB, MySQL
