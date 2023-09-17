@@ -1,6 +1,4 @@
 - JavaScript, HTML, CSS
-- React, Node.js, Express
-- MongoDB, MySQL
+- React
 - Git, GitHub
-- Visual Studio Code, Postman
 
