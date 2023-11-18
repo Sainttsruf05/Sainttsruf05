@@ -1,4 +1,3 @@
-- JavaScript, HTML, CSS
-- React
-- Git, GitHub
+- Mobile Android Developer
+- Kotlin, JavaScript
 
