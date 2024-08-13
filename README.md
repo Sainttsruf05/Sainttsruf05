@@ -1,1 +1,1 @@
-Sou um desenvolvedor Android e venho buscar a melhorar as minhas abilidades como desenvolvedor
+Sou um desenvolvedor Front end e venho buscar a melhorar as minhas abilidades como desenvolvedor
